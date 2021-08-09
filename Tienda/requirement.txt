@@ -1,0 +1,5 @@
+django-admin-interface
+pillow 
+django
+django-crispy-forms
+django-contrib-humanize
